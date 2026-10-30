@@ -35,3 +35,8 @@ python3 research_dn_midprice.py market_history.jsonl
 Reads one newline-delimited JSON file, one market per line with `ticks`, `tick_columns`, and a `winner` of `UP`/`DN`. Not committed (see `.gitignore`); fetch it from the private polymarket-data repo.
 
 Read-only; no wallet, key, or CLOB access.
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/midprice-ev-edge-research/issues/new). Pull requests are welcome too.
